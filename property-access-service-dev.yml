@@ -1,4 +1,3 @@
-information:
-  machine: macOS Big Sur
-  name: MacBook Pro (15-inch, 2017)
-  serie: C02VL2GEHTDD
+information.machine: macOS Big Sur
+information.name: MacBook Pro (15-inch, 2017)
+information.serie: C02VL2GEHTDD
