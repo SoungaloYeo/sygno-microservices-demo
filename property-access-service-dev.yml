@@ -1,3 +1,4 @@
-information.machine: dev macOS Big Sur
-information.name: dev MacBook Pro (15-inch, 2017)
-information.serie: dev C02VL2GEHTPP
+information:
+  machine: DEV macOS Big Sur
+  name: DEV MacBook Pro (15-inch, 2017)
+  serie: DEV C02VL2GEHTPP
